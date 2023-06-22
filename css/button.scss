@@ -1,0 +1,29 @@
+
+
+
+.blueButton{
+  border-radius:5px;
+  background-color: #182f6c;
+  color:white;
+  border:none;
+  padding:10px 15px;
+  margin:10px;
+  font-size: 20px;
+
+  &:hover{
+    background-color: #0c1e54;
+  }
+}
+
+.greenButton{
+  border-radius:5px;
+  background-color: #7fd89b;
+  color:white;
+  border:none;
+  padding:10px 15px;
+  margin:10px;
+  font-size: 20px;
+  &:hover{
+    background-color: #889b55;
+  }
+}

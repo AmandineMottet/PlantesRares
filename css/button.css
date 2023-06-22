@@ -1,0 +1,18 @@
+.blueLink {
+  color: #182f6c;
+  text-decoration: none;
+  padding: 30px;
+}
+
+.blueButton {
+  border-radius: 5px;
+  background-color: #182f6c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+.blueButton :hover {
+  background-color: #2e4c94;
+}
+
+/*# sourceMappingURL=button&link.css.map */
